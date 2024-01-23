@@ -1,2 +1,2 @@
 # CYSH-Arduino
-This is Repository of CYSH Arduino course in 2022.
+This is a repository of CYSH Arduino course in 2022 spring and summer.
